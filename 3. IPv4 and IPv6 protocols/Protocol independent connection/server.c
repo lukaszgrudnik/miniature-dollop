@@ -55,7 +55,7 @@ int main(int argc, char *argv[]) {
   char buffer[256];
   char address[INET_ADDRSTRLEN];
 
-  strcpy(buffer, "Laboratorium PUS");
+  strcpy(buffer, "Hello world");
 
 
 
